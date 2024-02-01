@@ -12,8 +12,8 @@ A simple task manager app built using SwiftUI And Swifty.
 
 ## Screenshots
 
-(https://discord.com/channels/766295144558362674/1104258164632854679/1202470735776325692)
-https://discord.com/channels/766295144558362674/1104258164632854679/1202470745503174696
+![IMG_7397](https://github.com/speedyfriend67/TaskManagerApp/assets/82425907/14270e29-7335-4b25-8bc0-672a80c2d7ae)
+![IMG_7398](https://github.com/speedyfriend67/TaskManagerApp/assets/82425907/7e3d71a8-5d13-45ea-be87-92805169adc7)
 
 ## Getting Started
 
